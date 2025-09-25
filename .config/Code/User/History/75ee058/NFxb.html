@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <input type="search">
+    <button>Rechercher</button>
+    <label for="trierAge">Trier par Age</label>
+    <select name="trierAge" id="trierAge">
+        <option value="asc">Croissant</option>
+        <option value="desc">Décroissant</option>
+        <option value="100ans">Utilisateurs moins de 100 ans</option>
+    </select>
+    <button id="renitialiser">Rénitialiser</button>
+    <div id="utilisateurs-container"></div>
+    <script src="utilisateurs.js"></script>
+</body>
+</html>

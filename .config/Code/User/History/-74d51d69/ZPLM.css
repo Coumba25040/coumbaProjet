@@ -1,0 +1,16 @@
+body{
+    
+}
+input{
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+}
+button{
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+}
+#alider{
+    background-color: darkgreen;
+}

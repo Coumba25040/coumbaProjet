@@ -1,0 +1,43 @@
+<?php
+session_start();
+if(isset($_POST['ok'])){
+    var_dump($_POST);
+    $nom = $_POST['nom'];
+    $prenom = $_POST['prenom'];
+    $email = $_POST['email'];
+    $password = $_POST['password'];   
+};
+
+
+$servername = 'localhost';
+$username = 'coumbadev';
+$password = 'pbjvcb12';
+$dbname = 'utilisateurs';
+
+$passHash = 
+
+try{
+  $pdo = new PDO("mysql:host=$servername;dbname=utilisateurs", $username, $password);
+  $req = "INSERT INTO users (nom, prenom, email, pass) VALUES (:nom, :prenom, :email, :pass)";
+
+  $statement = $pdo->prepare($req);
+
+  $nom = 'lala';
+  $prenom = 'lili';
+  $email = 'c@c.fr';
+  $pass = password_hash('lala', PASSWORD_DEFAULT);
+
+  $statement->bindParam(':nom', $nom);
+  $statement->bindParam(':prenom', $prenom);
+  $statement->bindParam(':email', $email);
+  $statement->bindParam(':pass', password_hash($pass, PASSWORD_DEFAULT));
+
+  $statement->execute();
+  echo'Utilisateur ajouté avec succès !';
+
+}
+catch(PDOException $e){
+  echo "Erreur à la base de données:".$e->getMessage();
+
+}
+?>

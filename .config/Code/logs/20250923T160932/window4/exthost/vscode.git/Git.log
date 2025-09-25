@@ -1,0 +1,22 @@
+2025-09-23 18:27:04.974 [info] [main] Niveau du journal : Info
+2025-09-23 18:27:04.974 [info] [main] Validation du git trouvé dans : «git»
+2025-09-23 18:27:04.974 [info] [main] Utilisation de git "2.39.5" de "git»
+2025-09-23 18:27:04.974 [info] [Model][doInitialScan] Initial repository scan started
+2025-09-23 18:27:04.974 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-09-23 18:28:01.856 [info] [main] Niveau du journal : Info
+2025-09-23 18:28:01.856 [info] [main] Validation du git trouvé dans : «git»
+2025-09-23 18:28:02.319 [info] [main] Utilisation de git "2.39.5" de "git»
+2025-09-23 18:28:02.319 [info] [Model][doInitialScan] Initial repository scan started
+2025-09-23 18:28:09.878 [info] > git rev-parse --show-toplevel [5969ms]
+2025-09-23 18:28:09.913 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 18:28:10.730 [info] > git rev-parse --show-toplevel [12ms]
+2025-09-23 18:28:10.730 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 18:28:14.558 [info] > git rev-parse --show-toplevel [252ms]
+2025-09-23 18:28:14.558 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 18:28:14.671 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-09-23 18:28:22.944 [info] > git rev-parse --show-toplevel [101ms]
+2025-09-23 18:28:22.944 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 18:28:57.541 [info] > git rev-parse --show-toplevel [121ms]
+2025-09-23 18:28:57.544 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 18:29:04.600 [info] > git rev-parse --show-toplevel [1051ms]
+2025-09-23 18:29:04.645 [info] fatal: not a git repository (or any of the parent directories): .git

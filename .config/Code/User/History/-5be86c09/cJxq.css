@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+form{
+    max-width: 400px;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+  
+}

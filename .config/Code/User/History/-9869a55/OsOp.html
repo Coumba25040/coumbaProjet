@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CoumbaJob</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=delete" />
+    
+</head>
+<body>
+<body>
+    <header>
+        <img src="Logo Fleuriste Rose Bordeaux Illustré Moderne .png" alt="">
+    </header>
+    <article id="form-container">
+        <form action="" method="post" id="form">
+            <h1>Nouvelle Candidature</h1>
+            <div class="class-group">
+                <input type="text" name="entreprise" id="entreprise" placeholder="Entreprise" required>
+                <input type="text" name="ville" id="ville" placeholder="Ville" required>
+            </div>
+            <div class="class-group">
+                <input type="text" name="poste" id="poste" placeholder="Poste" required>
+                <input type="text" name="contact" id="contact" placeholder="Nom Contact" required>
+            </div> 
+            <input type="email" name="email" id="email" placeholder="Email" required>
+            <div class="class-group">
+                <input type="date" name="date" id="date" placeholder="Date" required>
+                <select name="statut" id="statut" required>
+                    <option value="Accepté">Accepté</option>
+                    <option value="Refusé">Refusé</option>
+                    <option value="enCours">En cours</option>
+                </select>
+            </div>
+            <textarea name="description" id="description" placeholder="Coller la description du poste"></textarea>
+            <div>
+                <button type="submit" id="btn-ajouter">Ajouter</button>
+            </div>
+        </form>
+    </article>
+    <article id="recherche-tri">
+        <input type="text" name="recherche" id="recherche" placeholder="Rechercher une candidature"> 
+        <select name="trier" id="trier">
+            <option value="nom">Nom</option>
+            <option value="asc">Le plus récent</option>
+            <option value="dsc">Le moins récent</option>
+            <option value="poste">Nom du poste</option>
+            <option value=""></option>
+        </select>
+    </article>
+    <article id="cardContainer">
+        <div class="card">
+            <span class="material-symbols-outlined">
+                delete
+                </span>
+            <div class="cardBody">
+                <div class="cardTitle">
+                    <h3>Developpeur Web</h3>
+                    <p>25/05/2002</p>
+                </div>
+                <p>Safran Group</p>
+                <p>Malakoff</p>
+                <p>Statut</p>
+                <button id="btn-modifier">Modifier</button>
+            </div>
+        </div>
+        <div class="card">
+            <span class="material-symbols-outlined">
+                delete
+                </span>
+            <div class="cardBody">
+                <div class="cardTitle">
+                    <h3>Developpeur Web</h3>
+                    <p>25/05/2002</p>
+                </div>
+                <p>Safran Group</p>
+                <p>Malakoff</p>
+                <p>Statut</p>
+                <button id="btn-modifier">Modifier</button>
+            </div>
+        </div><div class="card">
+            <span class="material-symbols-outlined">
+                delete
+                </span>
+            <div class="cardBody">
+                <div class="cardTitle">
+                    <h3>Developpeur Web</h3>
+                    <p>25/05/2002</p>
+                </div>
+                <p>Safran Group</p>
+                <p>Malakoff</p>
+                <p>Statut</p>
+                <button id="btn-modifier">Modifier</button>
+            </div>
+        </div><div class="card">
+            <span class="material-symbols-outlined">
+                delete
+                </span>
+            <div class="cardBody">
+                <div class="cardTitle">
+                    <h3>Developpeur Web</h3>
+                    <p>25/05/2002</p>
+                </div>
+                <p>Safran Group</p>
+                <p>Malakoff</p>
+                <p>Statut</p>
+                <button id="btn-modifier">Modifier</button>
+            </div>
+        </div><div class="card">
+            <span class="material-symbols-outlined">
+                delete
+                </span>
+            <div class="cardBody">
+                <div class="cardTitle">
+                    <h3>Developpeur Web</h3>
+                    <p>25/05/2002</p>
+                </div>
+                <p>Safran Group</p>
+                <p>Malakoff</p>
+                <p>Statut</p>
+                <button id="btn-modifier">Modifier</button>
+            </div>
+        </div><div class="card">
+            <span class="material-symbols-outlined">
+                delete
+                </span>
+            <div class="cardBody">
+                <div class="cardTitle">
+                    <h3>Developpeur Web</h3>
+                    <p>25/05/2002</p>
+                </div>
+                <p>Safran Group</p>
+                <p>Malakoff</p>
+                <p>Statut</p>
+                <button id="btn-modifier">Modifier</button>
+            </div>
+        </div>    
+    </article>
+    <footer>
+        <p>CoumbaJob</p>
+        
+    </footer>
+<article id="popup-overlay">
+    <div id="popup-content">
+        <div id="popup-coordonne">
+            <h1 id="popop-emp">Developpeur web</h1>
+            <h2 id="popop-ste">Safran group Malakoff</h2>
+            <h3 id="popop-date-statut">Date Statut</h3>
+            <p id="popop-contact">Nom du Contact</p>
+            <p id="popop-email">Email</p>
+        </div>
+        <div id="popup-description">
+            <h2>Déscription du poste</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente dolore sequi vero quam saepe ipsam commodi consequatur illum et? Odio, libero laborum? Tempore voluptates necessitatibus adipisci eos ipsam odio omnis.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis excepturi perspiciatis fuga, asperiores, ea aperiam doloribus similique impedit aut deleniti non voluptatibus tempore inventore laudantium est voluptates incidunt voluptas aliquam.lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, pariatur neque. Debitis placeat itaque repellat esse. Assumenda labore atque suscipit culpa quibusdam similique, aliquid praesentium ipsa ducimus beatae, tenetur nobis? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum aliquam dolor, quas reiciendis recusandae nostrum odit voluptate provident odio voluptatibus sapiente suscipit assumenda hic similique autem tenetur obcaecati blanditiis? Dolorem! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque dolores odit consequuntur. Nisi voluptas qui eaque harum dolor nemo corporis odio cum! Culpa, non. Voluptas dolore ut deserunt deleniti quibusdam. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis molestias ab nulla? Quod sint fugit dolorum perspiciatis aut obcaecati assumenda. Cupiditate nobis molestiae perferendis. Molestias at enim quasi commodi eos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quam nisi odit? Distinctio exercitationem facilis commodi perferendis magnam minus! Accusamus aperiam, at necessitatibus adipisci rerum dolores quo tenetur quisquam voluptates? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum impedit modi quos voluptates maxime ut nemo at asperiores expedita ipsa voluptas, corrupti labore voluptatibus quo veritatis accusamus illo! Vel, ab?
+            </p>
+
+        </div>
+    </div>
+
+</article>
+</body>
+</html>

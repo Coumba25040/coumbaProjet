@@ -1,0 +1,7 @@
+.voiture{
+    border: solid 1px;
+    width: 220px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+}

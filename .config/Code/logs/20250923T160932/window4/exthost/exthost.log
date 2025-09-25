@@ -1,0 +1,24 @@
+2025-09-23 18:27:01.196 [info] Extension host with pid 9317 started
+2025-09-23 18:27:01.394 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-23 18:27:01.837 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-23 18:27:01.842 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-23 18:27:04.161 [info] Eager extensions activated
+2025-09-23 18:27:11.890 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-23 18:27:11.901 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-23 18:27:11.907 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-09-23 18:27:15.956 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-09-23 18:27:39.645 [info] Extension host terminating: renderer closed the MessagePort
+2025-09-23 18:27:39.811 [info] Extension host with pid 9317 exiting with code 0
+2025-09-23 18:27:54.891 [info] Extension host with pid 9378 started
+2025-09-23 18:27:54.891 [info] Skipping acquiring lock for /home/coumbisse9104/.config/Code/User/workspaceStorage/bb370800b24712739aaae79110e0d7af.
+2025-09-23 18:27:55.977 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-09-23 18:27:55.994 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-09-23 18:27:56.002 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-09-23 18:27:56.929 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-23 18:27:58.688 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-23 18:27:58.692 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-23 18:28:02.339 [info] Eager extensions activated
+2025-09-23 18:28:10.784 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-23 18:28:10.787 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-23 18:28:10.791 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-09-23 18:28:14.069 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'

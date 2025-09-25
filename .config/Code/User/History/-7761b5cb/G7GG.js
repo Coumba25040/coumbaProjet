@@ -1,0 +1,30 @@
+let inputNombre = document.querySelector("input")
+let btnValider = document.getElementById("valider")
+let btnRejouer = document.getElementById("rejouer")
+let p = document.querySelector("p")
+
+console.log(inputNombre)
+
+let min = 1
+let max = 1000
+let random = Math.floor(Math.random() * (max - min) + min)
+console.log(random)
+let tentatives = 10
+
+btnValider.addEventListener('click', function(){
+    if(tentatives > 0){
+    console.log(inputNombre.value)
+    if(inputNombre.value > random){
+        p.textContent = "Trop Grand"
+    }else if(inputNombre.value < random){
+        p.textContent = "Trop Petit"
+    }else if(inputNombre.value == random){
+        p.textContent= "Bravo"
+    }}
+})
+
+btnRejouer.addEventListener('click', )
+
+
+
+

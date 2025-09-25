@@ -1,0 +1,27 @@
+2025-09-24 15:50:20.656 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 63ms.
+2025-09-24 15:50:20.785 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 37ms.
+2025-09-24 15:50:20.965 [warning] Creation of workbench contribution 'workbench.contrib.userDataProfiles' took 45ms.
+2025-09-24 15:50:20.988 [warning] Creation of workbench contribution 'workbench.contrib.localHistoryTimeline' took 22ms.
+2025-09-24 15:50:21.063 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 72ms.
+2025-09-24 15:50:22.981 [info] Started local extension host with pid 729.
+2025-09-24 15:50:30.336 [error] [network] #1: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-09-24 15:50:30.339 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-09-24 15:50:38.269 [info] [perf] Render performance baseline is 610ms
+2025-09-24 15:50:41.066 [info] Extension host (LocalProcess pid: 729) is unresponsive.
+2025-09-24 15:50:41.792 [info] Extension host (LocalProcess pid: 729) is responsive.
+2025-09-24 15:50:41.802 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-09-24 15:50:44.940 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-09-24 15:55:30.832 [error] [network] #6: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-09-24 15:55:30.836 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-09-24 16:00:31.201 [error] [network] #7: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-09-24 16:00:31.340 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-09-24 16:05:31.757 [error] [network] #8: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-09-24 16:05:31.909 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-09-24 16:10:32.352 [error] [network] #9: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-09-24 16:10:32.473 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-09-24 16:15:32.899 [error] [network] #10: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-09-24 16:15:33.014 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-09-24 16:20:33.463 [error] [network] #11: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-09-24 16:20:33.600 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-09-24 16:25:33.981 [error] [network] #12: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2025-09-24 16:25:34.096 [warning] Failed to fetch chat participant registry Failed to fetch

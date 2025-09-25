@@ -1,0 +1,9 @@
+.box {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  
+  .box :first-child {
+    align-self: center;
+  } 

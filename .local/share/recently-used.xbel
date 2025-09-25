@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/coumbisse9104/exoGPT" added="2025-06-19T18:17:41.211657Z" modified="2025-09-04T21:29:14.507667Z" visited="2025-06-19T18:17:41.211663Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-09-04T21:29:14.507556Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/projetCoumba" added="2025-08-25T15:29:49.128966Z" modified="2025-09-23T16:27:36.675658Z" visited="2025-08-25T15:29:49.128972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-09-23T16:27:36.675604Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/exo%20bibliotheque%20" added="2025-08-29T17:54:18.186679Z" modified="2025-08-31T11:08:19.852783Z" visited="2025-08-29T17:54:18.186688Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-31T11:08:19.852665Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/exo%20voyage%20" added="2025-08-29T17:54:46.059215Z" modified="2025-08-29T17:54:46.059254Z" visited="2025-08-29T17:54:46.059224Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-29T17:54:46.059237Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/projet" added="2025-08-31T11:13:03.404533Z" modified="2025-08-31T11:13:03.404561Z" visited="2025-08-31T11:13:03.404539Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-31T11:13:03.404549Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/exo%20agence%20voyage" added="2025-08-31T11:13:28.140572Z" modified="2025-08-31T11:13:28.140633Z" visited="2025-08-31T11:13:28.140590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-31T11:13:28.140609Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/Nouveau%20dossier/Exercice%20Blibliotheque" added="2025-08-31T13:02:25.308928Z" modified="2025-08-31T13:02:25.309000Z" visited="2025-08-31T13:02:25.308936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-31T13:02:25.308947Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/Nouveau%20dossier/exercice%20agence%20de%20voyage" added="2025-08-31T13:04:27.481422Z" modified="2025-08-31T13:04:27.481467Z" visited="2025-08-31T13:04:27.481431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-31T13:04:27.481446Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/exoPhp" added="2025-09-01T14:10:27.423753Z" modified="2025-09-01T14:10:27.423918Z" visited="2025-09-01T14:10:27.423761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-09-01T14:10:27.423774Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/monscript.php" added="2025-09-01T14:57:20.236895Z" modified="2025-09-01T14:57:20.236939Z" visited="2025-09-01T14:57:20.236906Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-09-01T14:57:20.236918Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/exoPhp/monscript.php.save" added="2025-09-01T15:14:55.576118Z" modified="2025-09-01T15:14:55.576185Z" visited="2025-09-01T15:14:55.576131Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-09-01T15:14:55.576145Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/MesSites" added="2025-09-02T18:05:35.081018Z" modified="2025-09-22T14:02:48.188073Z" visited="2025-09-02T18:05:35.081028Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-09-22T14:02:48.187998Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/www" added="2025-09-02T19:12:00.412752Z" modified="2025-09-02T19:12:00.412810Z" visited="2025-09-02T19:12:00.412759Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-09-02T19:12:00.412768Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/exoGPT/EXO" added="2025-09-04T14:49:59.552363Z" modified="2025-09-04T14:53:00.344978Z" visited="2025-09-04T14:49:59.552371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-09-04T14:53:00.344949Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/PHP/tpConnexion" added="2025-09-11T10:31:55.572523Z" modified="2025-09-11T10:31:55.572714Z" visited="2025-09-11T10:31:55.572531Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-09-11T10:31:55.572542Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/coumbisse9104/MesSites/tpConnexion" added="2025-09-12T13:56:59.757902Z" modified="2025-09-12T13:56:59.757976Z" visited="2025-09-12T13:56:59.757914Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-09-12T13:56:59.757927Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

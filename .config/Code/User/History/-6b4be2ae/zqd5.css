@@ -1,0 +1,16 @@
+
+
+.conteneur{
+
+display: flex;
+
+
+}
+
+.eleme:nth-child(2){
+
+
+align-self: center;
+
+}
+    

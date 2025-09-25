@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head> <!-- partie invisible -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire de réservation</title>
+
+    <style>
+        body {
+            width: 50%;
+            margin: auto;
+            border: 1px solid gray;
+            padding: 20px 10px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        h1,
+        h3 {
+            background: rgb(249, 249, 249);
+            text-align: center;
+        }
+
+        label,
+        input,
+        select {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+
+<body> <!-- corps de la page début du contenu qui sera affiché -->
+
+    <h1> Votre Réservation d'hotel </h1> <!-- Titre de niveau 1 -->
+    <h3> * Champ obligatoires </h3> <!-- Titre de niveau 3 (plus petit) -->
+
+    <!-- début du formulaire -->
+    <form id="registration_form" method="GET">
+        <label>Votre Nom* :</label> <br>
+        <input type="text" placeholder="nom de famille" required> <br>
+        
+        <label>Votre Prenom* :</label> <br>
+        <input type="text" placeholder="prénom" required><br>
+
+        <label>Votre numéro de téléphone * :</label> <br>
+        <input type="number" placeholder="0601020304" required> <br>
+
+        <label>Votre adresse Email * :</label> <br>
+        <input type="email" placeholder="monemail@mail.fr" required> <br>
+
+        <label>Sélectionner votre Ville : </label> <br>
+        <Select>
+            <option>Lille</option>
+            <option selected >Paris</option>
+            <option>Nantes</option>
+            <option>Lyon</option>
+        </Select> <br>
+
+        <label>Date d'arrivée * : </label> <br>
+        <input type="date" required><br>
+
+        <label>Nombre de Personne * : </label> <br>
+        <input type="number" required><br>
+
+        <label>Vos options :  </label> <br>
+        <label> Climatisation </label>
+        <input type="checkbox">
+        
+        <label for="option"> Mini bar </label>
+        <input type="checkbox" name="option">
+
+        <label> Jacuzzi </label>
+        <input type="checkbox"> <br>
+
+        <textarea>Ajouter un commentaire.</textarea> <br>
+        <label>Acceptation des conditions général de ventes* :</label> <br>
+        <input name="CGV" type="radio" value="oui" required> 
+        <label>J'accepte</label>
+        <input  name="CGV" type="radio" value="non"> 
+        <label>Je refuse</label> <br>
+
+        <input type="submit"  name="submit" value="Envoyer ma demande">
+      
+
+    </form> <!--  fin du formulaire -->
+</body> <!-- fin du contenu de la page -->
+
+</html>

@@ -1,0 +1,7 @@
+body{
+    flex-direction: column;
+}
+input{
+    height: 30px;
+    border-radius: 10px;
+}
