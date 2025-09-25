@@ -1,8 +1,0 @@
-[Info  - 10:04:22 PM] Initialising intelephense 1.14.4
-[Info  - 10:04:22 PM] Initialised in 57 ms
-[Info  - 10:04:22 PM] Searching file:///home/coumbisse9104/.vscode/extensions/bmewburn.vscode-intelephense-client-1.14.4/node_modules/intelephense/lib/stub for files to index.
-[Info  - 10:04:22 PM] Searching file:///mnt/chromeos/archive/CorrectionTp1.zip/CorrectionTp1 for files to index.
-[Info  - 10:04:22 PM] Indexing started.
-[Info  - 10:04:30 PM] Indexing ended. 148 files indexed in 7s.
-[Info  - 10:04:30 PM] Writing state to /home/coumbisse9104/.config/Code/User/workspaceStorage/d8c99585e7767e02a0abd9c4295a6138/bmewburn.vscode-intelephense-client/501e450d.
-[Info  - 10:04:30 PM] Wrote state in 0.6s.

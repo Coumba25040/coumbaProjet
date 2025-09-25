@@ -1,8 +1,0 @@
-[Info  - 5:17:25 PM] Initialising intelephense 1.14.4
-[Info  - 5:17:25 PM] Initialised in 40 ms
-[Info  - 5:17:25 PM] Searching file:///home/coumbisse9104/.vscode/extensions/bmewburn.vscode-intelephense-client-1.14.4/node_modules/intelephense/lib/stub for files to index.
-[Info  - 5:17:26 PM] Searching file:///usr/share/phpmyadmin for files to index.
-[Info  - 5:17:34 PM] Indexing started.
-[Info  - 5:21:50 PM] Indexing ended. 25975 files indexed in 255s.
-[Info  - 5:21:50 PM] Writing state to /home/coumbisse9104/.config/Code/User/workspaceStorage/4c8e8bf3654a967f3bec9dd06988f40d/bmewburn.vscode-intelephense-client/49b76c3.
-[Info  - 5:22:01 PM] Wrote state in 11.8s.
